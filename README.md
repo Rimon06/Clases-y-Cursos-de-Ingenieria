@@ -8,8 +8,9 @@ El fin de este repositorio es recopilar, reseñar, clasificar y generar una part
 Con ello se ofrecerá una ampliación lógica y más avanzada del pensum de ingeniería electrónica mención computación de la Universidad Nacional Experimental Politécnica "Antonio José de Sucre" (UNEXPO) Vicerrectorado Barquisimeto, que servirá como complemento a sus estudios actuales y, sobretodo, posteriores.
 
 -----------
-#Objetivos
-[] Crear una plantilla para las reseñas de los cursos
-[] Crear una plantilla para la tabla de descripción de cursos
-[] Recopilar los cursos que tengo guardados de internet/youtube (son muchos)
-[]
+
+## Objetivos
+* Crear una plantilla para las reseñas de los cursos
+* Crear una plantilla para la tabla de descripción de cursos
+* Recopilar los cursos que tengo guardados de internet/youtube (son muchos)
+*
