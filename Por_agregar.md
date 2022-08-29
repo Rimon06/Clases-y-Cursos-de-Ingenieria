@@ -25,6 +25,7 @@
   * *Hardware Description Languages for FPGA Design*
   * *FPGA Softcore Processors and IP Acquisition*
   * *FPGA Capstone: Building FPGA Projects*
+* [*Sistemas Digitales: de las puertas lógicas al procesador*]([Sistemas Digitales: De las puertas lógicas al procesador](https://www.coursera.org/learn/sistemas-digitales))
 
 ## Instrumentación (Sensores)
 * [*Sensores y Circuitos para los sensores*](https://www.coursera.org/learn/sensors-circuit-interface)
