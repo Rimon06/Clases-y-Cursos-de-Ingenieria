@@ -5,6 +5,7 @@
 ## Arquitectura de Computadoras
 * [*15-418: Parallel Computer Architecture and Programming*](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#maxResults=150&folderID=%22dec5d23e-fec9-4f51-b532-f7adcf31276c%22&sortColumn=1&sortAscending=true)
 * [*From Nand to Tetris*](https://www.nand2tetris.org/)
+* [Arquitectura de Computadoras](https://www.coursera.org/learn/comparch)
 
 ## Electrónica de Potencia
 * [*Especialización en "Power Electronics"*](https://www.coursera.org/specializations/power-electronics) (4 Cursos en 15 semanas en total)
