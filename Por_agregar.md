@@ -8,11 +8,14 @@
 * [Arquitectura de Computadoras](https://www.coursera.org/learn/comparch)
 
 ## Electrónica de Potencia
-* [*Especialización en "Power Electronics"*](https://www.coursera.org/specializations/power-electronics) (4 Cursos en 15 semanas en total)
+* [*Especialización en "Power Electronics"*](https://www.coursera.org/specializations/power-electronics) (4 Cursos en 15 semanas en total)<details>
+  <summary>(cursos)</summary>
+ 
   * Introduction to Power Electronics
   * Converter Circuits
   * Converter Control
   * Magnetics for Power Electronic Converters 
+</details> 
 * []()
 
 ## Arduino
